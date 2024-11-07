@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-stock-weighing Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-mrp_weighing>=15.0dev,<15.1dev',
         'odoo-addon-partner_delivery_zone_weighing>=15.0dev,<15.1dev',
         'odoo-addon-sale_elaboration_weighing>=15.0dev,<15.1dev',
         'odoo-addon-sale_stock_weighing>=15.0dev,<15.1dev',
