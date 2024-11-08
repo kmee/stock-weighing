@@ -8,7 +8,12 @@
     "website": "https://github.com/OCA/stock-weighing",
     "license": "AGPL-3",
     "category": "Inventory",
-    "depends": ["stock", "web_filter_header_button", "web_widget_numeric_step"],
+    "depends": [
+        "stock",
+        "web_filter_header_button",
+        "web_widget_numeric_step",
+        "web_ir_actions_act_multi",
+    ],
     "data": [
         "security/ir.model.access.csv",
         "views/start_screen_banner.xml",
