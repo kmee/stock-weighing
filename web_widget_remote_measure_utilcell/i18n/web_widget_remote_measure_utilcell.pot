@@ -29,6 +29,11 @@ msgid "Remote measure device"
 msgstr ""
 
 #. module: web_widget_remote_measure_utilcell
+#: model:ir.model.fields.selection,name:web_widget_remote_measure_utilcell.selection__remote_measure_device__protocol__utilcell_f10
+msgid "Utilcell F10"
+msgstr ""
+
+#. module: web_widget_remote_measure_utilcell
 #: model:ir.model.fields.selection,name:web_widget_remote_measure_utilcell.selection__remote_measure_device__protocol__utilcell_f16
 msgid "Utilcell F16"
 msgstr ""
