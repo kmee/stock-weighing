@@ -20,6 +20,7 @@ setuptools.setup(
         'odoo-addon-stock_weighing_remote_measure>=15.0dev,<15.1dev',
         'odoo-addon-stock_weighing_threaded_print>=15.0dev,<15.1dev',
         'odoo-addon-web_widget_remote_measure>=15.0dev,<15.1dev',
+        'odoo-addon-web_widget_remote_measure_utilcell>=15.0dev,<15.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
